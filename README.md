@@ -8,7 +8,7 @@ I am a software engineer, back end developer, SecOps, DevOps Engineer give it a 
 <a href="https://twitter.com/thijsbekke" alt="Twitter - Thijs Bekke">🐦</a>
 <a href="https://twitter.com/OctoOver" alt="Twitter - Octoover">🐙</a>
 <a href="https://thijsbekke.nl" alt="Website">ℹ️</a>
-<a href="https://thedutchguys.com.nl" alt="Blog">⌨️</a>
+<a href="https://thedutchguys.com" alt="Blog">⌨️</a>
 </p>
 
 
