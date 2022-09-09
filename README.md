@@ -1,6 +1,6 @@
 ### Hi there, It is Thijs here 👋
 
-I am a software engineer, back end developer, SecOps, DevOps Engineer give it a name. I just love too code.
+
 
 
 <p align="center">
@@ -8,11 +8,12 @@ I am a software engineer, back end developer, SecOps, DevOps Engineer give it a 
 <a href="https://twitter.com/thijsbekke" alt="Twitter - Thijs Bekke">🐦</a>
 <a href="https://twitter.com/OctoOver" alt="Twitter - Octoover">🐙</a>
 <a href="https://thijsbekke.nl" alt="Website">ℹ️</a>
-<a href="https://thedutchguys.com" alt="Blog">⌨️</a>
+
 </p>
 
 
 <!--
+<a href="https://thedutchguys.com" alt="Blog">⌨️</a>
 **thijsbekke/thijsbekke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
